@@ -151,6 +151,10 @@ http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
 http://113.57.140.161:10081/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 group-title="央视",世界地理
 http://113.57.140.161:10081/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 group-title="央视IPV4",CGTN英语
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 group-title="央视IPV4",CGTN纪录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="卫视",北京卫视
 http://139.227.21.22:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视",北京卫视
