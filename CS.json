@@ -4,12 +4,11 @@
    "warningText": "【钛晶影视】维护, 请勿用于任何商业用途，仅供学习交流 ",
    "homepage": "https://1771245847.github.io/tvbox/",
    "sites": [
-       {
-      "key": "玉兔资源",
-      "name": "玉兔资源",
-      "type": 0,
-      "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
+        {
+      "key": "牛牛影视",
+      "name": "牛牛影视",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -171,15 +170,6 @@
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8/at/json",
       "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "牛牛影视",
-      "name": "牛牛影视",
-      "type": 1,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
