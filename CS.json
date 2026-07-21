@@ -7,7 +7,7 @@
        {
       "key": "玉兔资源",
       "name": "玉兔资源",
-      "type": 1,
+      "type": 3,
       "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
