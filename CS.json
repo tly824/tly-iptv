@@ -5,7 +5,7 @@
 // "homepage": "https://1771245847.github.io/tvbox/",
    "sites": [	
 	{
-      "key": "牛牛影视",
+      "key": "钛金影视",
       "name": "钛金影视",
       "type": 1,
       "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
