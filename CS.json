@@ -3,43 +3,23 @@
    "logo": "https://gh-proxy.org/https://raw.github.com/tly824/TX/main/TX.jpg",   
 // "warningText": "【钛晶影视】维护, 请勿用于任何商业用途，仅供学习交流 ",
 // "homepage": "https://1771245847.github.io/tvbox/",
-   "sites": [
-        {
-      "key": "点播源",
-      "name": "点播源",
-      "type": 0,
-      "api": "http://www.xyba.cn/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺"
-      ]
-	   },	
-	   {
-      "key": "NewDouBan",
-      "name": "🐮【王二小放牛娃】🐮",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-	  "indexs":1,
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-    }, 
-      {
+   "sites": [	
+	{
       "key": "牛牛影视",
       "name": "牛牛影视",
       "type": 1,
       "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1，    
+      "filterable": 1，
+	  "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]  
     },
       {
       "key": "豆瓣",
@@ -201,7 +181,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    },
+    {
+      "key": "点播源",
+      "name": "点播源",
+      "type": 0,
+      "api": "http://www.xyba.cn/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
+	   }  
   ],
   "lives": [
     {
