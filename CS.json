@@ -11,15 +11,7 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-	  "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺"
-      ]  
+      "filterable": 1, 
     },
       {
       "key": "豆瓣",
