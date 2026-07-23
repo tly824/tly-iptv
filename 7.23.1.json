@@ -108,14 +108,27 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
-            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-            "key": "b9b8345a1d11cc2cd5a80e63b4e149d0",
-            "name": "71-闪电*",
-            "quickSearch": 0,
-            "searchable": 0,
-            "type": 1
-        }, 
+	 {
+            "name": "76-瓜子|秒播",
+            "key": "Guazi",
+            "type": 3,
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "sites": "",
+                "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"    
+        },
+        {
+            "name": "78-韩剧|秒播",
+            "key": "Hxq",
+            "type": 3,
+            "api": "csp_HxqAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
     {
       "key": "U酷影视",
       "name": "U酷影视",
