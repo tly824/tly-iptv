@@ -193,8 +193,8 @@
         "泰剧",
         "综艺"
       ]
-	   }
-	],
+	   }  
+   ],
 "parses": [
 {"name": "解析聚合","type": 3,"url": "Demo"},
 {"name": "Json并发","type": 2,"url": "Parallel"}, 
