@@ -2,7 +2,7 @@
 {
 "spider":"https://gh-proxy.org/https://raw.github.com/tly824/tvbox/master/jar/pg.jar;md5;aHR0cHM6Ly9naC1wcm94eS5vcmcvaHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS90bHk4MjQvdHZib3gvbWFzdGVyL2phci9wZy5qYXI=",
 
-
+"logo": "https://gh-proxy.org/https://raw.github.com/tly824/TX/main/TX.jpg",
 
 "lives":[
              {"group":"redirect","channels":
@@ -349,9 +349,6 @@
 
 
 
-
-
-"logo": "https://gh-proxy.org/https://raw.github.com/tly824/TX/main/TX.jpg",
 "wallpaper":"https://bing.img.run/1920x1080.php",
 
 
