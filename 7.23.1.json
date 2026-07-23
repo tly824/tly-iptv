@@ -108,6 +108,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+            "key": "b9b8345a1d11cc2cd5a80e63b4e149d0",
+            "name": "71-闪电*",
+            "quickSearch": 0,
+            "searchable": 0,
+            "type": 1
+        }, 
     {
       "key": "U酷影视",
       "name": "U酷影视",
