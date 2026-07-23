@@ -24,6 +24,15 @@
 	"quickSearch": 0,
 	"changeable": 0
 },
+ {
+      "key": "牛牛影视",
+      "name": "牛牛影视",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	 
 {
 	"key": "量子",
 	"name": "影视 | 量子[直连]",
