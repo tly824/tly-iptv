@@ -203,7 +203,193 @@
         "泰剧",
         "综艺"
       ]
-	   }  
+	   }, 
+	 {
+            "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+            "key": "08770a213d5c282a0fe20bf7648a9aba",
+            "name": "3-金渐层 ",
+            "type": 1
+        },
+        {
+            "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+            "key": "7b1d09368af7a13806e1a8e1e43850e5",
+            "name": "4-银渐层",
+            "type": 1
+        },
+        {
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "key": "740e5d81e28de3ab97eab19f0ce6cf1d",
+            "name": "5-桔猫",
+            "type": 1
+        },
+        {
+            "api": "http://ffzy3.tv/api.php/provide/vod/",
+            "key": "73b5c89acc8a7c24118857fc514e9218",
+            "name": "6-狸花猫",
+            "type": 1
+        },
+        {
+            "api": "http://ffzy4.tv/api.php/provide/vod/",
+            "key": "ad1116ca9a9b3057570066086c9c9698",
+            "name": "7-豹猫",
+            "type": 1
+        },
+        {
+            "api": "http://ffzy.tv/api.php/provide/vod/",
+            "key": "4d6422f0a2bc81fc9606ecc2d97208eb",
+            "name": "8-英短",
+            "type": 1
+        },
+        {
+            "api": "http://www.ffzy.tv/api.php/provide/vod/",
+            "key": "a794df941b177a5eb1e4e991fb5eaccb",
+            "name": "9-美短",
+            "type": 1
+        },
+        {
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+            "key": "7e324c0872c13fd329e818c33a659046",
+            "name": "10-暹罗",
+            "type": 1
+        },
+        {
+            "api": "http://by.bfzyapi.com/api.php/provide/vod/",
+            "key": "16952cefcaeeda11b0bae2529a576e12",
+            "name": "11-折耳",
+            "type": 1
+        },
+        {
+            "api": "http://www.lzzy.tv/api.php/provide/vod/",
+            "key": "d2fee2579b5b9f122d45709ce08226fb",
+            "name": "12-布偶",
+            "type": 1
+        },
+        {
+            "api": "http://ffzy5.tv/api.php/provide/vod/",
+            "key": "c175280641d5263f0d0d9cbfab0162c3",
+            "name": "13-缅因",
+            "type": 1
+        },
+        {
+            "api": "https://lzizy4.com/api.php/provide/vod/",
+            "key": "fb264ae3b34e829817f35b9b59ea9c36",
+            "name": "14-波斯猫",
+            "type": 1
+        },
+        {
+            "api": "https://lzizy8.com/api.php/provide/vod/",
+            "key": "548c69066731916a1611dacb0e3b452c",
+            "name": "15-量子",
+            "type": 1
+        },
+        {
+            "api": "https://lzizy2.com/api.php/provide/vod/",
+            "key": "6c22ca0c90b5e44cd830d7ca515efa9c",
+            "name": "16-量子",
+            "type": 1
+        },
+        {
+            "api": "https://lzizy5.com/api.php/provide/vod/",
+            "key": "5d7bbc2b3aa0bfea3296946bf1ecda92",
+            "name": "17-量子",
+            "type": 1
+        },
+        {
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "key": "c8af26ef0238ad65540ef8c8a2a1d738",
+            "name": "18-三花",
+            "type": 1
+        },
+        {
+            "api": "http://lzizy.net/api.php/provide/vod/",
+            "key": "4797280cffa831567a8b737ec684ac1d",
+            "name": "19-牛奶",
+            "type": 1
+        },
+        {
+            "api": "https://lzizy3.com/api.php/provide/vod/",
+            "key": "96eb0562e1d21f2ef02d4c5e5bbf9ea7",
+            "name": "20-玄猫",
+            "type": 1
+        },
+        {
+            "api": "https://lovedan.net/api.php/provide/vod/",
+            "key": "0ec30b843eb0dd00005239556b902374",
+            "name": "21-简州",
+            "type": 1
+        },
+        {
+            "api": "https://www.kxgav.com/api/xml.php",
+            "key": "c7c8d8da2ba856cc798421b5de48a8bc",
+            "name": "22-西瓜",
+            "type": 0
+        },
+        {
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "key": "2da82ad79b8f4e114cf435763ab1d721",
+            "name": "23-*香奶儿",
+            "type": 0
+        },
+        {
+            "api": "https://api.apiyhzy.com/api.php/provide/vod/",
+            "key": "30e07a544ffe9b6069a1ba66d6442ca9",
+            "name": "24-樱花",
+            "type": 1
+        },
+        {
+            "api": "https://www.hongniuzy3.com/api.php/provide/vod/",
+            "key": "2db4768781aebc9d0dd0de88a838ceb8",
+            "name": "26-桃花",
+            "type": 1
+        },
+        {
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "key": "f392a6508debf453628b2713b0ee0a47",
+            "name": "27-梨花",
+            "type": 1
+        },
+        {
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "key": "2b95a57602ae920c848d81627e162f9e",
+            "name": "28-茉莉",
+            "type": 1
+        },
+        {
+            "api": "https://subocaiji.com/api.php/provide/vod/",
+            "key": "a93e240b86b123b432b61db56896f703",
+            "name": "29-兰花",
+            "type": 1
+        },
+        {
+            "api": "https://api.wujinapi.com/api.php/provide/vod/",
+            "key": "3a565658ffb7ec926e61756240866e64",
+            "name": "30-栀子花",
+            "type": 1
+        },
+        {
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
+            "key": "7ced0073619101d397b5c86fc3578ed4",
+            "name": "31-文竹",
+            "type": 1
+        },
+        {
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "key": "b76a940e9785b5348840472552e70374",
+            "name": "32-绿萝",
+            "type": 1
+        },
+        {
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+            "key": "77791ef659e8282af587e24e7b0c18a5",
+            "name": "33-墨斗",
+            "type": 1
+        },
+        {
+            "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+            "key": "0be92695deec6ee83ef66a6fca1e88e4",
+            "name": "34-魔都",
+            "type": 1
+        }
    ],
 "parses": [
 {"name": "解析聚合","type": 3,"url": "Demo"},
