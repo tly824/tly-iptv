@@ -190,7 +190,47 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    },
+	 {
+			"key": "hipy_js_腾云驾雾[官]",
+			"name": "腾云驾雾[官](drpy_t3)",
+			"type": 3,
+			"api": "https://gh-proxy.org/https://raw.github.com/tly824/hipy-server/master/app/t4/files/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh-proxy.org/https://raw.github.com/tly824/hipy-server/master/app/t4/files/drpy_js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE%5B%E5%AE%98%5D.js"
+		},
+		{
+			"key": "hipy_js_百忙无果[官]",
+			"name": "百忙无果[官](drpy_t3)",
+			"type": 3,
+			"api": "https://gh-proxy.org/https://raw.github.com/tly824/hipy-server/master/app/t4/files/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh-proxy.org/https://raw.github.com/tly824/hipy-server/master/app/t4/files//drpy_js/百忙无果[官].js"
+		},
+	  {
+      "key": "点播源",
+      "name": "点播源",
+      "type": 0,
+      "api": "http://www.xyba.cn/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
+	   }  
+   ],
        
 "parses": [
 {"name": "解析聚合","type": 3,"url": "Demo"},
