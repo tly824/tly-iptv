@@ -177,10 +177,11 @@
        {
           "name": "直播源",
           "urls": [
-            "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/ZH-XW.txt",
+            "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/ZH-XW.txt"],
             "playerType": 2,
             "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"}
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+       }
   ],
   "parses": [
 {"name": "解析线路1","type": 0,"url": "https://jx.2s0.cn/player/?url="},
