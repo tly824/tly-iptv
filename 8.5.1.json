@@ -38,16 +38,6 @@
 	"searchable": 1,
 	"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]
     },
-	 {
-      "key": "电影天堂",
-      "name": "电影天堂",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      "categories": ["电影片","连续剧","动漫片","综艺片"]
-    }, 
     {
       "key": "豆瓣",
       "name": "豆瓣",
@@ -80,7 +70,7 @@
       "key": "非凡资源",
       "name": "非凡资源",
       "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -92,7 +82,7 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
     },
 	{
       "key": "红牛",
@@ -187,13 +177,17 @@
     }
   ],
   "lives": [
-    {"name": "develop202",
-		 "type": 0,
-		 "url": "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/2026.7.18.txt",
-		 "playerType": 2,
-		 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-		 "logo": "https://epg.112114.xyz/logo/{name}.png"
-      }
+    {
+      "group": "自定义",
+      "channels": [
+        {
+          "name": "直播源",
+          "urls": [
+            "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/ZH-XW.txt"
+          ]
+        }
+      ]
+    }
   ],
   "parses": [
     {
@@ -211,46 +205,6 @@
       "type": 0,
       "url": "https://jx.hls.one/?url="
     },
-	 {
-            "name": "解析4",
-            "type": 1,
-            "url": "https://one.qd234.cn/api/?key=xLXUyjCBPOtxUDCCIR&url="
-        },
-        {
-            "name": "解析5",
-            "type": 1,
-            "url": "https://xrzj.qd234.cn/api/?key=ineVkLOqFx0XZioEez&url="
-        },
-        {
-            "name": "解析6",
-            "type": 1,
-            "url": "http://43.143.213.50:3366/home/api?type=ys&uid=17341&key=fengting888&url="
-        },
-        {
-            "name": "解析7",
-            "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2290&my=ahiknoqwzCFGJKPWX5&format=json&url="
-        },
-        {
-            "name": "解析8",
-            "type": 1,
-            "url": "https://jhjx.kuanjv.com/newky/?url="
-        },
-        {
-            "name": "解析9",
-            "type": 1,
-            "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
-        },
-        {
-            "name": "解析10",
-            "type": 1,
-            "url": "https://jb.vjiangbei.com/home/api?type=ys&uid=2534396&key=ejovwzABDKTUXY1357&url="
-        },
-        {
-            "name": "解析11",
-            "type": 1,
-            "url": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url="
-        },  
     {
       "name": "GGTV快速",
       "type": 1,
@@ -328,11 +282,6 @@
           "name": "max-buffer-size",
           "value": "5242880"
         },
-		{
-          "category": 4,
-          "name": "max_cached_duration",
-          "value": "3000"
-         },  
         {
           "category": 4,
           "name": "enable-accurate-seek",
@@ -357,37 +306,7 @@
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "0"
-        },
-		 {
-                    "category": 1,
-                    "name": "analyzeduration",
-                    "value": "10000"
-                },
-                {
-                    "category": 4,
-                    "name": "sync-av-start",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "packet-buffering",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "vol",
-                    "value": "256"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_clear",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "-1"
-                }  
+        }
       ]
     },
     {
@@ -467,149 +386,9 @@
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "1"
-        },
-		 {
-                    "category": 1,
-                    "name": "analyzeduration",
-                    "value": "10000"
-                },
-                {
-                    "category": 4,
-                    "name": "sync-av-start",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "packet-buffering",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "vol",
-                    "value": "256"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_clear",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "86400"
-                }  
+        }
       ]
-    },
-	 {
-            "group": "软解码",
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-range-support",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "max-buffer-size",
-                    "value": "15728640"
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurate-seek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "analyzeduration",
-                    "value": "10000"
-                },
-                {
-                    "category": 4,
-                    "name": "sync-av-start",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "packet-buffering",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "vol",
-                    "value": "256"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_clear",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "86400"
-                }
-            ]
-        }  
+    }
   ],
   "ads": [
     "mimg.0c1q0l.cn",
