@@ -84,6 +84,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{
+      "key": "红牛",
+      "name": "红牛资源",
+      "type": 1,
+      "api": " https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫电影","伦理片"]
+    },  
     {
       "key": "牛牛资源",
       "name": "牛牛资源",
