@@ -1,6 +1,6 @@
 {
   "sites": [
-     {
+    {
       "key": "uku",
       "name": "U酷",
       "type": 1,
@@ -8,7 +8,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫电影","奇幻片","犯罪片","国产剧","香澳剧","日剧","欧美剧","台湾剧","韩剧","泰剧","短剧","综艺","动漫","纪录片"]
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫",
+        "纪录片"
+      ]
     },
     {
       "key": "金鹰资源",
@@ -17,32 +23,22 @@
       "api": "https://jyzyapi.com/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": ["韩剧","日剧","马泰剧","内地剧","欧美剧","香港剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","动漫","综艺","短剧","伦理片"]
-    },
-    {
-      "key": "金鹰资源2",
-      "name": "金鹰资源2",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": ["韩剧","日剧","马泰剧","内地剧","欧美剧","香港剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","动漫","综艺","短剧","伦理片"]
-    },
-    {
-	"key": "量子",
-	"name": "影视 | 量子[直连]",
-	"type": 1,
-	"api": "https://cj.lziapi.com/api.php/provide/vod/",
-	"searchable": 1,
-	"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]
+      "filterable": 1
     },
     {
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 1,
       "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金鹰资源2",
+      "name": "金鹰资源2",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -63,14 +59,13 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": ["动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","纪录片","动漫电影","国产剧","香港剧","韩剧","欧美剧","日本剧","泰国剧","台湾剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","伦理片","短剧大全"]
+      "filterable": 1
     },
     {
       "key": "非凡资源",
       "name": "非凡资源",
       "type": 0,
-      "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/feifan/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -84,16 +79,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
-      "key": "红牛",
-      "name": "红牛资源",
-      "type": 1,
-      "api": " https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫电影","伦理片"]
-    },  
     {
       "key": "牛牛资源",
       "name": "牛牛资源",
