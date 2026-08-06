@@ -177,7 +177,8 @@
     }
   ],
   "lives": [
-    {"name": "develop202","type": 0,
+    {"name": "develop202",
+		 "type": 0,
 		 "url": "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/2026.7.18.txt",
 		 "playerType": 2,
 		 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
