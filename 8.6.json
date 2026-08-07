@@ -232,7 +232,9 @@
   "lives": [
     {
           "name": "直播源",
-          "urls":  "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/ZH-XW.txt"
+          "type": 0,
+          "urls":  "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/ZH-XW.txt",
+          "playerType": 2
         }
       ],
   "parses": [
