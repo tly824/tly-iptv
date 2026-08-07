@@ -8,29 +8,39 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1, // 开启筛选菜单
-      "categories": ["电影","电视剧","综艺","动漫"],
+      "categories": ["电影","电视剧","综艺","动漫""记录片"],
       // 下面就是筛选菜单配置
       "filters": [
         {
           "key": "type",
-          "name": "影片类型",
+          "name": "电影",
           "options": [
             {"name":"全部","value":""},
-            {"name":"动作","value":"动作"},
-            {"name":"喜剧","value":"喜剧"},
-            {"name":"科幻","value":"科幻"},
-            {"name":"恐怖","value":"恐怖"}
-          ]
+            {"name":"动作片","value":"动作片"},
+            {"name":"喜剧片","value":"喜剧片"},
+            {"name":"爱情片","value":"爱情片"},
+            {"name":"科幻片","value":"科幻片"},
+            {"name":"恐怖片","value":"恐怖片"},
+            {"name":"剧情片","value":"剧情片"},
+            {"name":"战争片","value":"战争片"},
+            {"name":"动漫电影","value":"动漫电影"},
+            {"name":"奇幻片","value":"奇幻片"},
+            {"name":"犯罪片","value":"犯罪片"}
+        ]
         },
         {
           "key": "area",
-          "name": "地区",
+          "name": "电视剧",
           "options": [
             {"name":"全部","value":""},
-            {"name":"大陆","value":"大陆"},
-            {"name":"港台","value":"港台"},
-            {"name":"欧美","value":"欧美"},
-            {"name":"日韩","value":"日韩"}
+            {"name":"国产剧","value":"国产剧"},
+            {"name":"香澳剧","value":"香澳剧"},
+            {"name":"日剧","value":"日剧"},
+            {"name":"欧美剧","value":"欧美剧"},
+            {"name":"台湾剧","value":"台湾剧"},
+            {"name":"韩剧","value":"韩剧"},
+            {"name":"泰剧","value":"泰剧"},
+            {"name":"短剧","value":"短剧"}
           ]
         },
         {
