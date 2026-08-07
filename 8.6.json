@@ -151,6 +151,20 @@
       "filterable": 1
     },
     {
+  "key": "ffzy",
+  "name": "非凡影视",
+  "type": 1,
+  "api": "http://cj.ffzyapi.com/api.php",
+  "search": "/api.php?ac=search",
+  "ssmoshi": "0",
+  "filterable": 1,
+  "categories": ["电影","电视剧","综艺","动漫"],
+  "filters": [
+    {"key":"vod_class","name":"类型","values":[{"n":"全部","v":""},{"n":"动作","v":"动作片"}]},
+    {"key":"year","name":"年份","values":[{"n":"全部","v":""},{"n":"2026","v":"2026"}]}
+    ]
+    },
+    {
       "key": "百度云资源",
       "name": "百度云资源",
       "type": 0,
