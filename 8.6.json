@@ -8,62 +8,47 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1, // 开启筛选菜单
-      "categories": ["电影","电视剧","综艺","动漫""记录片"],
-      // 下面就是筛选菜单配置
-      "filters": [
-        {
-          "key": "type",
-          "name": "电影",
-          "options": [
-            {"name":"全部","value":""},
-            {"name":"动作片","value":"动作片"},
-            {"name":"喜剧片","value":"喜剧片"},
-            {"name":"爱情片","value":"爱情片"},
-            {"name":"科幻片","value":"科幻片"},
-            {"name":"恐怖片","value":"恐怖片"},
-            {"name":"剧情片","value":"剧情片"},
-            {"name":"战争片","value":"战争片"},
-            {"name":"动漫电影","value":"动漫电影"},
-            {"name":"奇幻片","value":"奇幻片"},
-            {"name":"犯罪片","value":"犯罪片"}
-        ]
-        },
-        {
-          "key": "area",
-          "name": "电视剧",
-          "options": [
-            {"name":"全部","value":""},
-            {"name":"国产剧","value":"国产剧"},
-            {"name":"香澳剧","value":"香澳剧"},
-            {"name":"日剧","value":"日剧"},
-            {"name":"欧美剧","value":"欧美剧"},
-            {"name":"台湾剧","value":"台湾剧"},
-            {"name":"韩剧","value":"韩剧"},
-            {"name":"泰剧","value":"泰剧"},
-            {"name":"短剧","value":"短剧"}
-          ]
-        },
-        {
-          "key": "year",
-          "name": "上映年份",
-          "options": [
-            {"name":"全部","value":""},
-            {"name":"2026","value":"2026"},
-            {"name":"2025","value":"2025"},
-            {"name":"2020-2024","value":"2020,2021,2022,2023,2024"},
-            {"name":"2010前","value":"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009"}
-          ]
-        },
-        {
-          "key": "by",
-          "name": "排序方式",
-          "options": [
-            {"name":"最新","value":"time"},
-            {"name":"热门","value":"hits"},
-            {"name":"评分","value":"score"}
-          ]
-        }
+        "categories": ["电影", "电视剧", "综艺", "动漫", "记录片"],
+  "filters": [
+    {
+      "key": "type_id",
+      "name": "细分类型",
+      "options": [
+        {"name": "全部", "value": ""},
+        {"name": "动作片", "value": "6"},
+        {"name": "喜剧片", "value": "7"},
+        {"name": "爱情片", "value": "8"},
+        {"name": "科幻片", "value": "9"},
+        {"name": "恐怖片", "value": "10"},
+        {"name": "剧情片", "value": "11"},
+        {"name": "战争片", "value": "12"},
+        {"name": "动漫电影", "value": "20"},
+        {"name": "奇幻片", "value": "33"},
+        {"name": "犯罪片", "value": "34"},
+        {"name": "国产剧", "value": "13"},
+        {"name": "港澳剧", "value": "14"},
+        {"name": "日剧", "value": "15"},
+        {"name": "欧美剧", "value": "16"},
+        {"name": "台湾剧", "value": "21"},
+        {"name": "韩剧", "value": "22"},
+        {"name": "泰剧", "value": "23"},
+        {"name": "短剧", "value": "32"}
       ]
+    },
+    {
+      "key": "vod_year",
+      "name": "上映年份",
+      "options": [
+        {"name": "全部", "value": ""},
+        {"name": "2026", "value": "2026"},
+        {"name": "2025", "value": "2025"},
+        {"name": "2024", "value": "2024"},
+        {"name": "2023", "value": "2023"},
+        {"name": "2020-2022", "value": "2020,2021,2022"},
+        {"name": "2020年前", "value": "2019"}
+      ]
+    }
+  ]
     },
     {
       "key": "金鹰资源",
