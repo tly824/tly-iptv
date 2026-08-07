@@ -4,7 +4,7 @@
       "key": "uku",
       "name": "U酷",
       "type": 1,
-      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1, // 开启筛选菜单
