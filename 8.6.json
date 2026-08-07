@@ -1,19 +1,58 @@
 {
   "sites": [
-    {
+       {
       "key": "uku",
       "name": "U酷",
       "type": 1,
       "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片"
+      "filterable": 1, // 开启筛选菜单
+      "categories": ["电影","电视剧","综艺","动漫"],
+      // 下面就是筛选菜单配置
+      "filters": [
+        {
+          "key": "type",
+          "name": "影片类型",
+          "options": [
+            {"name":"全部","value":""},
+            {"name":"动作","value":"动作"},
+            {"name":"喜剧","value":"喜剧"},
+            {"name":"科幻","value":"科幻"},
+            {"name":"恐怖","value":"恐怖"}
+          ]
+        },
+        {
+          "key": "area",
+          "name": "地区",
+          "options": [
+            {"name":"全部","value":""},
+            {"name":"大陆","value":"大陆"},
+            {"name":"港台","value":"港台"},
+            {"name":"欧美","value":"欧美"},
+            {"name":"日韩","value":"日韩"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "上映年份",
+          "options": [
+            {"name":"全部","value":""},
+            {"name":"2026","value":"2026"},
+            {"name":"2025","value":"2025"},
+            {"name":"2020-2024","value":"2020,2021,2022,2023,2024"},
+            {"name":"2010前","value":"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009"}
+          ]
+        },
+        {
+          "key": "by",
+          "name": "排序方式",
+          "options": [
+            {"name":"最新","value":"time"},
+            {"name":"热门","value":"hits"},
+            {"name":"评分","value":"score"}
+          ]
+        }
       ]
     },
     {
