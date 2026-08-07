@@ -8,50 +8,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "filters": [
-        {
-          "key": "vod_class",
-          "name": "分类",
-          "values": [
-            {"n": "全部", "v": ""},
-            {"n": "电影", "v": "电影"},
-            {"n": "电视剧", "v": "电视剧"},
-            {"n": "综艺", "v": "综艺"},
-            {"n": "动漫", "v": "动漫"},            
-            {"n": "纪录片", "v": "纪录片"}
-          ]
-        },
-        {
-          "key": "vod_by",
-          "name": "排序方式",
-          "options": [
-            {"name":"最新","value":"time"},
-            {"name":"热门","value":"hits"},
-            {"name":"评分","value":"score"}
-          ]
-        },
-        {
-          "key": "vod_year",
-          "name": "年份",
-          "values": [
-            {"n": "全部年份", "v": ""},
-            {"n": "2026", "v": "2026"},
-            {"n": "2025", "v": "2025"},
-            {"n": "2024", "v": "2024"},
-            {"n": "2023", "v": "2023"},
-            {"n": "2020", "v": "2020"},
-             {"name":"2010前","v":"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009"}
-          ]
-        },
-        {
-          "key": "vod_area",
-          "name": "地区",
-          "values": [
-            {"n": "全部地区", "v": ""},
-            {"n": "内地", "v": "内地"},
-            {"n": "港台", "v": "港台"},
-            {"n": "欧美", "v": "欧美"},
-            {"n": "日韩", "v": "日韩"}
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片"
       ]
     },
     {
@@ -197,13 +159,17 @@
     }
   ],
   "lives": [
-    {"name": "develop202",
-		 "type": 0,
-		 "url": "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/2026.7.18.txt",
-		 "playerType": 2,
-		 "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-		 "logo": "https://epg.112114.xyz/logo/{name}.png"
-   }
+    {
+      "group": "自定义",
+      "channels": [
+        {
+          "name": "直播源",
+          "urls": [
+            "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/ZH-XW.txt"
+          ]
+        }
+      ]
+    }
   ],
   "parses": [
     {
