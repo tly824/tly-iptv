@@ -1,0 +1,450 @@
+央视,#genre#
+CCTV1综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608807420
+CCTV2财经,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/631780532
+CCTV3综艺,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/624878271
+CCTV4中文国际,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/631780421
+CCTV5体育,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/641886683
+CCTV5+体育赛事,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/641886773
+CCTV6电影,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/624878396
+CCTV7国防军事,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/673168121
+CCTV8电视剧,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/624878356
+CCTV9纪录,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/673168140
+CCTV10科教,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/624878405
+CCTV11戏曲,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/667987558
+CCTV12社会与法,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/673168185
+CCTV13新闻,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608807423
+CCTV14少儿,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/624878440
+CCTV15音乐,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/673168223
+CCTV17农业农村,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/673168256
+CCTV4欧洲,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608807419
+CCTV4美洲,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608807416
+CGTN外语纪录,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609006487
+CGTN阿拉伯语,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609154345
+CGTN西班牙语,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609006450
+CGTN法语,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609006476
+CGTN俄语,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609006446
+老故事,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/884121956
+发现之旅,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/624878970
+中学生,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/708869532
+CGTN,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609017205
+兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
+女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
+世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
+卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
+文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
+第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
+怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
+风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
+风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
+风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
+央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
+高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
+体育,#genre#
+赛事最经典,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/646596895
+体坛名栏汇,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/629943305
+四海钓鱼,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/637444975
+陕西体育休闲频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/956909356
+24小时城市联赛轮播台,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/915512915
+武术世界,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/958475359
+快乐垂钓,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/961930263
+纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786677292&sign=2c5d7dbf95f45f1439387d5288cfd2bc
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+beIN SPORTS XTRA,https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
+FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+ESPN,http://41.205.93.154/ESPN/index.m3u8
+NBC Sports NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
+NHL Network,https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+Tennis Channel,http://89.187.179.148:826/anto.j/c9yJDcXyPe/31209
+卫视,#genre#
+东方卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/651632648
+江苏卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/623899368
+广东卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608831231
+北京卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/630287636
+辽宁卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/630291707
+河北卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/962042070
+江西卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/783847495
+河南卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/790187291
+陕西卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/738910838
+大湾区卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608917627
+湖北卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/947472496
+吉林卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/947472500
+青海卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/947472506
+东南卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/849116810
+海南卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/947472502
+海峡卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/849119120
+中国农林卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/956904896
+兵团卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/956923145
+宁夏卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/738910535
+重庆卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/738910914
+三沙卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/961023778
+黑龙江卫视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/738906901
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+东方卫视,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+地方,#genre#
+上海新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/651632657
+上视东方影视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/617290047
+上海第一财经,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608780988
+南京新闻综合频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/838109047
+南京教科频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/838153729
+南京十八频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/838151753
+体育休闲频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/626064707
+江苏城市频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/626064714
+江苏国际,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/626064674
+江苏教育,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/628008321
+江苏影视频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/626064697
+江苏综艺频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/626065193
+公共新闻频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/626064693
+盐城新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639731825
+淮安新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639731826
+泰州新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639731818
+连云港新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639731715
+宿迁新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639731832
+徐州新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639731747
+优漫卡通频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/626064703
+江阴新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/955227979
+南通新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/955227985
+宜兴新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/955227996
+溧水新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639737327
+陕西银龄频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/956909362
+陕西都市青春频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/956909358
+陕西秦腔频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/956909303
+陕西新闻资讯频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/956909289
+财富天下,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/956923159
+镇江新闻综合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639731783
+海南广播电视总台新闻频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/962067517
+海南广播电视总台自贸频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/962045226
+海南广播电视总台社会与法频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/962045223
+海南广播电视总台文旅频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/962067526
+海南广播电视总台少儿频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/962067523
+广东珠江频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/639731952
+影视,#genre#
+建党105周年巡礼,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/713600957
+经典香港电影,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/625703337
+新片放映厅,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/619495952
+CHC影迷电影,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/952383261
+CHC动作电影,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/644368714
+CHC家庭影院,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/644368373
+和美乡途轮播台,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/713591450
+南方影视,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/614961829
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华电影,https://cdn8.163189.xyz/163189/lhdy
+龙华经典,https://cdn8.163189.xyz/163189/lhjd
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+千禧经典,https://o11.163189.xyz/stream/live/tvbc/
+天映频道,https://o11.163189.xyz/stream/live/typd/
+ASTRO爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+HBO喜剧,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+LMN,http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
+HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+Cinemax精选,http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+Cinemax,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
+HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+新闻,#genre#
+中国天气,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/959986621
+Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+Sky News,https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+NHK World,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+France24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+教育,#genre#
+CETV1,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/923287154
+CETV2,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/923287211
+CETV4,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/923287339
+山东教育,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609154353
+熊猫,#genre#
+熊猫频道01高清,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609158151
+熊猫频道1,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608933610
+熊猫频道2,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608933640
+熊猫频道3,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608934619
+熊猫频道4,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608934721
+熊猫频道5,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608935104
+熊猫频道6,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/608935797
+熊猫频道7,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609169286
+熊猫频道8,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609169287
+熊猫频道9,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609169226
+熊猫频道10,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/609169285
+综艺,#genre#
+最强综艺趴,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/629942228
+苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+南宁娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
+河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
+少儿,#genre#
+嘉佳卡通,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/614952364
+经典动画大集合,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/629942219
+新动漫,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/961930269
+浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+纪实,#genre#
+新动力量创一流,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/713589837
+中华特产,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/959986618
+环球旅游,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/958475356
+梨园频道,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/961930369
+文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
+WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+亚太,#genre#
+凤凰卫视中文台,https://stream1.freetv.fun/e0c859ca201f3d03836f51e08e68b5d21c2f94462c3bc7686058368b63bb6deb.ctv
+凤凰卫视中文台,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.ctv
+凤凰卫视资讯台,https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.ctv
+凤凰卫视香港台,https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv
+凤凰卫视香港台,https://stream1.freetv.fun/de73fec89305dacef19eafcb697172c30729dd00897cb0d30c80affbb3a582e9.ctv
+Astro AOD,https://o11.163189.xyz/stream/live/aod/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+体育-昨天,#genre#
+WTT 林诗栋/蒯曼晋级8强 陈幸同五局险胜 全场回放（周泽昊） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966733597
+WTT 林诗栋/蒯曼晋级8强 陈幸同五局险胜 全场回放（一号桌） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966732778
+WTT 林诗栋/蒯曼晋级8强 陈幸同五局险胜 全场回放（二号桌） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966732721
+WTT 林诗栋/蒯曼晋级8强 陈幸同五局险胜 全场回放（三号桌） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966732536
+WTT 林诗栋/蒯曼晋级8强 陈幸同五局险胜 全场回放（四号桌） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966730890
+WTT 林诗栋/蒯曼晋级8强 陈幸同五局险胜 全场回放（英文解说智能字幕） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966732660
+WTA 斯维托丽娜VS斯瓦泰克 【回放】斯维托丽娜1-2斯瓦泰克（宋光振） 07:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966735407
+WTA 斯维托丽娜VS斯瓦泰克 【回放】斯维托丽娜1-2斯瓦泰克（赛场原声） 07:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966736528
+WTA 斯维托丽娜VS斯瓦泰克 【回放】斯维托丽娜1-2斯瓦泰克（英文原声） 07:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966736747
+WTA 斯维托丽娜VS斯瓦泰克 全场回放 07:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966738661
+贵州村超全国赛 村超球场day6 2026贵州村超全国赛村超球场day6全场回放（赛场原声）（一） 08:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966738411
+贵州村超全国赛 村超球场day6 2026贵州村超全国赛村超球场day6全场回放（赛场原声）（二） 08:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747298
+贵州村超全国赛 村超球场day6 2026贵州村超全国赛村超球场day6全场回放（赛场原声）（三） 08:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966749737
+跃界星途国际青少年篮球邀请赛 跃界星途国际青少年篮球邀请赛Day1 全场回放（赛场原声）（一） 08:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966739844
+跃界星途国际青少年篮球邀请赛 跃界星途国际青少年篮球邀请赛Day1 全场回放（赛场原声）（二） 08:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966743495
+跃界星途国际青少年篮球邀请赛 跃界星途国际青少年篮球邀请赛Day1 全场回放（赛场原声）（三） 08:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747426
+大连友城杯青少年足球邀请赛 大连远见足球俱乐部vs大连足球青训基地代表队 全场回放（赛场原声） 08:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966736176
+大连友城杯青少年足球邀请赛 诺丁汉森林足球俱乐部vs布隆德比足球俱乐部 全场回放（赛场原声） 10:10,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966736605
+WTA 高芙VS莱巴金娜 【回放】高芙1-2莱巴金娜（房朕） 07:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966737523
+WTA 高芙VS莱巴金娜 【回放】高芙1-2莱巴金娜（赛场原声） 07:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966738205
+大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs诺维奇城足球俱乐部 全场回放（赛场原声） 11:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966737664
+BWF 经典重映-中国 vs 日本 【全场回放】中国3-0日本（鸿昆、杜玥、黄雅琼、刘雨辰） 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964544254
+BWF 经典重映-中国 vs 日本 【全场回放】中国3-0日本（明星视角） 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964544078
+BWF 经典重映-中国 vs 日本 【回放】王祉怡2-1山口茜（鸿昆、杜玥） 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964537925
+BWF 经典重映-中国 vs 日本 【回放】刘圣书/谭宁2-0福岛由纪/松本麻佑（鸿昆、黄雅琼、刘雨辰） 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964538522
+BWF 经典重映-中国 vs 日本 【回放】陈雨菲2-0宫崎友花（鸿昆、杜玥） 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964539855
+BWF 经典重映-中国 vs 日本 【全场回放】一号场地（赛场原声） 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964544704
+BWF 经典重映-中国 vs 日本 【全场回放】一号场地（英文解说） 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964545265
+斯诺克 斯图尔特·宾汉姆VS侯赛因·瓦菲 26/27赛季斯诺克中国公开赛第2轮回放：斯图尔特·宾汉姆6-0侯赛因·瓦菲（陶哲铭） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966743818
+斯诺克 斯图尔特·宾汉姆VS侯赛因·瓦菲 26/27赛季斯诺克中国公开赛第2轮回放：斯图尔特·宾汉姆6-0侯赛因·瓦菲（赛场原声） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746068
+斯诺克 尼尔·罗伯逊VS斯佳辉 26/27赛季斯诺克中国公开赛第2轮回放： 尼尔·罗伯逊6-2斯佳辉（赛场原声） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966744083
+斯诺克 尼尔·罗伯逊VS斯佳辉 26/27赛季斯诺克中国公开赛第2轮回放： 尼尔·罗伯逊6-2斯佳辉（朱峰立） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747453
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 1 2026年世界腰旗橄榄球锦标赛排名赛Day1二号场地全场回放（赛场原声）（一） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966743167
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 1 2026年世界腰旗橄榄球锦标赛排名赛Day1一号场地全场回放（赛场原声）（一） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966743640
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 1 2026年世界腰旗橄榄球锦标赛排名赛Day1三号场地全场回放（赛场原声）（一） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747772
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 1 2026年世界腰旗橄榄球锦标赛排名赛Day1二号场地全场回放（赛场原声）（二） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747788
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 1 2026年世界腰旗橄榄球锦标赛排名赛Day1一号场地全场回放（赛场原声）（二） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966750946
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 1 2026年世界腰旗橄榄球锦标赛排名赛Day1二号场地全场回放（赛场原声）（三） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966752953
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 1 2026年世界腰旗橄榄球锦标赛排名赛Day1一号场地全场回放（赛场原声）（三） 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966753012
+贵州省运会 篮球女乙决赛 黔南州42-76贵阳市 2026贵州省第十二届运动会篮球女乙决赛全场回放：黔南州vs贵阳市（赛场原声） 14:17,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966741493
+大连友城杯青少年足球邀请赛 龙卷风足球俱乐部（红队）vs龙卷风足球俱乐部（蓝队） 全场回放（官方解说） 14:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966740440
+贵州“村BA”联赛 黔东南州“村BA”day1 2026黔东南州“村BA”day1全场回放（赛场原声）（一） 15:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747373
+贵州“村BA”联赛 黔东南州“村BA”day1 2026黔东南州“村BA”day1全场回放（赛场原声）（二） 15:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966751176
+大连友城杯青少年足球邀请赛 大连第二十一中代表队vs布隆德比足球俱乐部 全场回放（官方解说） 15:40,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966742568
+国青女篮热身赛 新西兰U18女篮VS世新大学女篮 全场回放（赛场原声） 15:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966743490
+贵州省运会 篮球男乙决赛 遵义市79-52贵阳市 2026贵州省第十二届运动会篮球男乙决赛全场回放：遵义市vs贵阳市（赛场原声） 16:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966742946
+贵州村超全国赛 三中球场day5 2026贵州村超全国赛三中球场day5全场回放（赛场原声）（一） 16:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747278
+贵州村超全国赛 三中球场day5 2026贵州村超全国赛三中球场day5全场回放（赛场原声）（二） 16:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747592
+贵州村超全国赛 职中球场day5 2026贵州村超全国赛职中球场day5全场回放（赛场原声）（一） 16:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746932
+贵州村超全国赛 职中球场day5 2026贵州村超全国赛职中球场day5全场回放（赛场原声）（二） 16:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747555
+世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 2026年世界攀联亚洲青年杯（中国全南）全场回放（一） 09:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966739389
+世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 2026年世界攀联亚洲青年杯（中国全南）全场回放（二） 09:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746686
+大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs斯旺西城足球俱乐部 2026大连友城杯青少年足球邀请赛小组赛第6轮全场回放：川崎前锋足球俱乐部3:4斯旺西城足球俱乐部（赛场原声） 16:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966743492
+WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（周冠达、刘国正、徐晨皓） 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746851
+WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（赵曦） 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746545
+WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（一号桌） 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747711
+WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（二号桌） 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747416
+WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（三号桌） 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747649
+WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（四号桌） 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747350
+WTT 王曼昱横扫 林诗栋/温瑞博不敌勒布伦兄弟 全场回放（英文解说智能字幕） 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746873
+NBA经典赛事 NBA精彩重播：独行侠vs勇士 全场回放（孙博、季孟年、马健、小七） 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/961464196
+惠安洄岸季户外系列赛事 惠安村唱大舞台 2026惠安村唱大舞台Day7全场回放（官方解说） 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746925
+斯诺克 塞尔比VS凯伦·威尔逊 26/27赛季斯诺克中国公开赛第2轮回放：马克·塞尔比6-1凯伦·威尔逊（朱峰立） 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747021
+斯诺克 塞尔比VS凯伦·威尔逊 26/27赛季斯诺克中国公开赛第2轮回放：马克·塞尔比6-1凯伦·威尔逊（赛场原声） 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747572
+斯诺克 克里斯·韦克林VS张安达 26/27赛季斯诺克中国公开赛第2轮回放：克里斯·韦克林4-6张安达（乔迁） 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747727
+斯诺克 克里斯·韦克林VS张安达 26/27赛季斯诺克中国公开赛第2轮回放：克里斯·韦克林4-6张安达（赛场原声） 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966751082
+中国男篮系列热身赛 中国男篮VS乌拉圭男篮 全场回放（邵化谦、季孟年、曾令旭、王冠证） 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746385
+中国男篮系列热身赛 中国男篮VS乌拉圭男篮 全场回放（赛场原声） 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746399
+浙BA 越城65-72诸暨 2026浙江省城市篮球联赛全场回放：越城vs诸暨（赛场原声） 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747410
+浙BA 柯城69-55江山 2026浙江省城市篮球联赛全场回放：柯城vs江山（赛场原声）（20260813） 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966747690
+国青女篮热身赛 中国U18女篮VS蒙古女篮 全场回放（赛场原声） 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966746895
+体育-今天,#genre#
+WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（张靖松） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966752901
+WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（四号桌） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966752990
+WTT 王曼昱/蒯曼惜败 周启豪晋级男单16强 全场回放（英文解说智能字幕） 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966752984
+WTA 斯瓦泰克VS莱巴金娜 单文强 06:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966738323
+WTA 斯瓦泰克VS莱巴金娜 赛场原声 06:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966473886
+WTA 斯瓦泰克VS莱巴金娜 英文原声 06:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966473907
+咪咕体育日报 undefined 咪咕体育日报 第149期 08:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966489958
+贵州村超全国赛 村超球场day7 赛场原声 08:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966634174
+跃界星途国际青少年篮球邀请赛 跃界星途国际青少年篮球邀请赛Day2 赛场原声 08:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701286
+大连友城杯青少年足球邀请赛 川崎前锋足球俱乐部vs大连市足球协会（A队） A队 08:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966721114
+世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 中国全南 10:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966702191
+希望杯国际青少年俱乐部邀请赛 欧塞尔vs梅州客家 清流播出 09:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966715930
+希望杯国际青少年俱乐部邀请赛 广东队vs诺丁汉森林 清流播出 09:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966715938
+大连友城杯青少年足球邀请赛 诺维奇城足球俱乐部vs香港東區足球會俱乐部 清流播出 10:10,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966721146
+大连友城杯青少年足球邀请赛 韩国足协庆州花郎选拔队vs大连第二十一中代表队 清流播出 11:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966721178
+BWF 经典重映-中国 vs 丹麦 经典重映 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966686518
+斯诺克 诺鹏·桑卡姆VS肖恩·墨菲 1号桌 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538898
+斯诺克 诺鹏·桑卡姆VS肖恩·墨菲 秦正 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966582682
+斯诺克 周跃龙VS吉尔伯特 2号桌 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538913
+斯诺克 周跃龙VS吉尔伯特 朱峰立 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966582662
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 2 一号场地 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966720548
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 2 二号场地 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966720525
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 2 三号场地 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966720715
+超三联赛 超三联赛 靖江大区赛 B档小组赛下午场 清流播出 13:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966721337
+贵州“村BA”联赛 黔东南州“村BA”day2 赛场原声 15:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966735349
+贵州省运会 拳击比赛 赛场原声 15:52,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966742508
+国青女篮热身赛 蒙古女篮VS新西兰U18女篮 清流播出 15:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966689246
+贵州村超全国赛 三中球场day6 赛场原声 16:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966634197
+贵州村超全国赛 职中球场day6 赛场原声 16:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966634204
+WTT 动漫冲击决赛 林诗栋激战A·勒布伦 周冠达 徐晨皓 程靖淇 17:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538436
+WTT 动漫冲击决赛 林诗栋激战A·勒布伦 李柯鑫 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538191
+WTT 动漫冲击决赛 林诗栋激战A·勒布伦 1号桌 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966200014
+WTT 动漫冲击决赛 林诗栋激战A·勒布伦 2号桌 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966200046
+WTT 动漫冲击决赛 林诗栋激战A·勒布伦 智能字幕 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966565496
+NBA经典赛事 NBA精彩重播：勇士vs快船 杨健 曾令旭 闫宇峰 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966323996
+贵州省运会 田径比赛决赛 赛场原声 18:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966742522
+CPB中国棒球城市联赛 上海虎鲸VS厦门海豚 清流播出 18:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701802
+惠安洄岸季户外系列赛事 惠安村唱大舞台 解说 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966496971
+超三联赛 超三联赛 靖江大区赛 B档小组赛晚间场 清流播出 18:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966721456
+中甲 陕西联合VS长春亚泰 解说 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966718388
+中甲 陕西联合VS长春亚泰 赛场原声 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966718377
+斯诺克 塞尔比VS尼尔·罗伯逊 1号桌 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538930
+斯诺克 塞尔比VS尼尔·罗伯逊 柏林 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966582640
+斯诺克 张安达VS宾汉姆 2号桌 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538945
+斯诺克 张安达VS宾汉姆 乔迁 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966581969
+国青女篮热身赛 中国U18女篮VS世新大学女篮 清流播出 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966689287
+希望杯国际青少年俱乐部邀请赛 贝尔格莱德游击队vs武里南联 清流播出 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966715947
+中超 武汉三镇VS上海海港 娄一晨 刘越 邵凌霄 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722534
+中超 武汉三镇VS上海海港 赛场原声 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722565
+中超 山东泰山VS青岛海牛 孙雨轩 徐阳 程思钦 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722485
+中超 山东泰山VS青岛海牛 赛场原声 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722510
+中超 青岛西海岸VS重庆铜梁龙 袁甲 张辛昕 19:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722592
+中超 青岛西海岸VS重庆铜梁龙 赛场原声 19:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722652
+ONE冠军赛 ONE周五格斗夜166：坤蓬VS攀帕杰 王琰博 21:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966719661
+ONE冠军赛 ONE周五格斗夜166：坤蓬VS攀帕杰 英文原声 21:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966719670
+WTA 女单第一轮 赛场原声 23:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701849
+WTA 女单第一轮 英文原声 23:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701870
+体育-明天,#genre#
+WTT 王曼昱对决覃予萱 周启豪冲击8强 肖扬 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538206
+WTT 王曼昱对决覃予萱 周启豪冲击8强 1号桌 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966200071
+WTT 王曼昱对决覃予萱 周启豪冲击8强 2号桌 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966200100
+WTT 王曼昱对决覃予萱 周启豪冲击8强 3号桌 00:35,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966200153
+WTT 王曼昱对决覃予萱 周启豪冲击8强 智能字幕 00:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966565553
+意大利杯 帕尔马VS卡塔尼亚 张昊泽 23:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966725267
+意大利杯 帕尔马VS卡塔尼亚 赛场原声 23:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966725255
+意大利杯 卡利亚里VS阿雷佐 鲁靖明 00:15,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966725277
+意大利杯 卡利亚里VS阿雷佐 赛场原声 00:15,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966725272
+意大利杯 蒙扎VS阿维利诺 刘腾 02:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966725284
+意大利杯 蒙扎VS阿维利诺 赛场原声 02:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966725281
+意大利杯 佛罗伦萨VS贝内文托 石庆圣 03:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966725295
+意大利杯 佛罗伦萨VS贝内文托 赛场原声 03:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966725293
+跃界星途国际青少年篮球邀请赛 跃界星途国际青少年篮球邀请赛Day3 赛场原声 07:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701273
+咪咕体育日报 undefined 咪咕体育日报 第150期 08:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966489971
+贵州村超全国赛 村超球场day8 赛场原声 08:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966634216
+世界攀联亚洲青年杯 2026年世界攀联亚洲青年杯（中国全南） 中国全南 08:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966702173
+ONE冠军赛 ONE巅峰系列赛46：赫梅茨伯格VS迪亚奇科娃 郝俊 08:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966719740
+ONE冠军赛 ONE巅峰系列赛46：赫梅茨伯格VS迪亚奇科娃 英文原声 08:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966719773
+上海明日之星篮球争冠赛 A组第4vsB组第4 清流播出 09:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966613654
+BWF 经典重映-中国 vs 韩国 经典重映 12:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966686523
+上海明日之星篮球争冠赛 A组第3vsB组第3 清流播出 12:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966613671
+超三联赛 超三联赛 靖江大区赛 A档小组赛 王冠证 李嘉伟 12:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966721397
+斯诺克 中国公开赛半决赛下午场 1号桌 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538948
+斯诺克 中国公开赛半决赛下午场 秦正 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966581945
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 3 一号场地 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966720575
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 3 二号场地 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966720654
+腰旗橄榄球世锦赛 世界腰旗橄榄球锦标赛 Day 3 三号场地 14:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966720725
+国际马联世锦赛 三项赛越野赛 尹少坤 15:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966702821
+国际马联世锦赛 三项赛越野赛 英文原声 15:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966708267
+上海明日之星篮球争冠赛 A组第1vsB组第2 清流播出 15:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966613692
+国青女篮热身赛 世新大学女篮VS蒙古女篮 清流播出 15:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966689307
+贵州“村BA”联赛 黔东南州“村BA”day3 赛场原声 16:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966735270
+CPB中国棒球城市联赛 厦门海豚VS上海虎鲸 清流播出 16:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701810
+中甲 延边龙鼎VS大连鲲城 解说 17:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966718393
+中甲 延边龙鼎VS大连鲲城 赛场原声 17:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966718412
+WTT 女双决赛、男女单打1/4决赛 周冠达 侯英超 程靖淇 17:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538410
+WTT 女双决赛、男女单打1/4决赛 赛场原声 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966200183
+WTT 女双决赛、男女单打1/4决赛 智能字幕 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966565584
+NBA经典赛事 NBA精彩重播：雄鹿vs勇士 连睿 马健 王润陶 18:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966324008
+东北超 大连VS呼和浩特 2026赛季东北地区城市足球联赛第7轮: 大连VS呼和浩特 18:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964851710
+中超 辽宁铁人楠波湾VS深圳新鹏城 鲁靖明 冯潇霆 18:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722623
+中超 辽宁铁人楠波湾VS深圳新鹏城 赛场原声 18:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722725
+中甲 无锡吴钩VS广东广州豹足球俱乐部 解说 18:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966718417
+中甲 无锡吴钩VS广东广州豹足球俱乐部 赛场原声 18:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966718429
+惠安洄岸季户外系列赛事 惠安村唱大舞台 解说 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966496957
+闽超 厦门队VS龙岩队 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966557141
+闽超 莆田队VS泉州队 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966557178
+闽超 漳州队VS宁德队 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966557193
+闽超 平潭队VS三明队 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966557209
+上海明日之星篮球争冠赛 B组第1vsA组第2 清流播出 18:50,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966613714
+浙BA 富阳VS临安 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966686987
+徽BA 淮北VS池州 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701626
+徽BA 淮南VS宿州 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701639
+徽BA 安庆VS六安 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701672
+徽BA 滁州VS宣城 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701698
+齐鲁超赛 济宁港航VS枣庄丰源轮胎队 赛场原声 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966704695
+超三联赛 超三联赛 靖江大区赛 A档12进8及B档决赛 李嘉伟 周赫 18:55,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966721535
+楚超 黄石美尔雅队VS孝感孝傲江湖队 2026湖北省城市足球联赛第十三轮: 黄石vs孝感孝傲江湖 19:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964887280
+楚超 恩施小土豆队VS随州炎炎队 2026湖北省城市足球联赛第十三轮: 恩施小土豆vs随州炎炎 19:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964887285
+楚超 十堰武当队VS鄂州临空队 2026湖北省城市足球联赛第十三轮: 十堰武当vs鄂州临空 19:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964887293
+楚超 黄冈祥云队VS仙桃黄鳝队 2026湖北省城市足球联赛第十三轮: 黄冈vs仙桃黄鳝 19:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964887301
+楚超 宜昌东阳光队VS潜江龙虾队 2026湖北省城市足球联赛第十三轮: 宜昌东阳光vs潜江龙虾 19:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964887316
+楚超 咸宁外星人队VS襄阳东风风神队 2026湖北省城市足球联赛第十三轮: 咸宁外星人vs襄阳东风风神 19:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964887327
+楚超 荆门金龙泉队VS武汉华工科技队 2026湖北省城市足球联赛第十三轮: 荆门金龙泉vs武汉华工科技 19:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964887340
+楚超 荆州恒隆队VS神农架队 2026湖北省城市足球联赛第十三轮: 荆州恒隆vs神农架 19:25,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964887345
+中甲 广西恒宸VS梅州客家 解说 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966718450
+中甲 广西恒宸VS梅州客家 赛场原声 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966718462
+东北超 通辽VS延边 2026赛季东北地区城市足球联赛第7轮: 通辽VS延边 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964851699
+东北超 鸡西VS哈尔滨 2026赛季东北地区城市足球联赛第7轮: 鸡西VS哈尔滨 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964851733
+东北超 长春VS沈阳 2026赛季东北地区城市足球联赛第7轮: 长春VS沈阳 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/964851745
+赣超 景德镇队VS南昌队 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966454147
+赣超 新余队VS上饶队 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966454165
+赣超 抚州队VS赣州队 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966454168
+赣超 吉安队VS鹰潭队 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966454186
+赣超 九江队VS宜春队 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966454192
+斯诺克 中国公开赛半决赛晚场 1号桌 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966538955
+斯诺克 中国公开赛半决赛晚场 柏林 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966581937
+中国男篮系列热身赛 中国男篮VS乌拉圭男篮 邵化谦 季孟年 曾令旭 19:10,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966739405
+中国男篮系列热身赛 中国男篮VS乌拉圭男篮 现场原声 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966563526
+浙BA 余姚VS宁海 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966686994
+浙BA 诸暨VS越城 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966687014
+浙BA 永康VS婺城 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966687045
+浙BA 江山VS柯城 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966687061
+国青女篮热身赛 中国U18女篮VS新西兰U18女篮 清流播出 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966689340
+桂BA 南宁市VS河池市 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966689950
+桂BA 桂林市VS北海市 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966689979
+齐鲁超赛 烟台队VS潍坊队 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966704743
+齐鲁超赛 淄博齐稷锐思达VS日照队 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966704754
+齐鲁超赛 泰安泰山城建队VS滨州创新队 赛场原声 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966704788
+中超 浙江俱乐部绿城VS成都蓉城 孙雷 李欣 程思钦 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722766
+中超 浙江俱乐部绿城VS成都蓉城 赛场原声 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722784
+中超 天津津门虎VS北京国安 刘腾 杨晨 林梦鸽 19:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722710
+中超 天津津门虎VS北京国安 天津津门虎球星视角 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722722
+中超 天津津门虎VS北京国安 北京国安球星视角 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722729
+中超 天津津门虎VS北京国安 数智战术视角 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722742
+中超 天津津门虎VS北京国安 赛场原声 19:20,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722755
+苏超 南通队VS镇江队 官方解说 19:10,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966706432
+苏超 宿迁队VS苏州队 官方解说 19:10,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966706529
+苏超 南京队VS扬州队 官方解说 19:10,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966706563
+中超 上海申花VS河南俱乐部彩陶坊 石庆圣 李彦 魏欣怡 19:30,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722843
+中超 上海申花VS河南俱乐部彩陶坊 4K赛场原声 19:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722863
+中超 云南玉昆VS大连英博海发 梁祥宇 徐云龙 19:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722807
+中超 云南玉昆VS大连英博海发 赛场原声 19:45,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966722813
+WTA 女单第二轮 赛场原声 23:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701890
+WTA 女单第二轮 英文原声 23:00,https://iptv.qqff.de/u/BbyJMAC-eaNXwY4ck_AZE8wo/966701904
